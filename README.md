@@ -7,3 +7,4 @@ Package | Description
 [craftcms/mailgun](https://github.com/craftcms/mailgun) | Mailgun mailer adapter
 [craftcms/mandrill](https://github.com/craftcms/mandrill) | Mandrill mailer adapter
 [nystudio107/craft3-minify](https://github.com/nystudio107/craft3-minify) | HTML/CSS/JS Minifier
+[nystudio107/craft3-cookies](https://github.com/nystudio107/craft3-cookies) | Get/set cookies via Twig
