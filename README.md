@@ -8,3 +8,4 @@ Package | Description
 [craftcms/mandrill](https://github.com/craftcms/mandrill) | Mandrill mailer adapter
 [nystudio107/craft3-minify](https://github.com/nystudio107/craft3-minify) | HTML/CSS/JS Minifier
 [nystudio107/craft3-cookies](https://github.com/nystudio107/craft3-cookies) | Get/set cookies via Twig
+[topshelfcraft/craft3-walk](https://github.com/TopShelfCraft/Craft3-Walk) | A Craft-aware `array_walk` method w/ handy console commands for bulk actions 
