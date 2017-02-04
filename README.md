@@ -11,4 +11,4 @@ Package | Developer | Description
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | HTML/CSS/JS Minifier
 [Patrol](https://github.com/selvinortiz/patrol) | Selvin Ortiz | Maintenance Mode & SSL Routing
 [Tig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
-[topshelfcraft/craft3-walk](Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
+[Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
