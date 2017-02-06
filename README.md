@@ -1,8 +1,11 @@
 Craft 3 Plugins
 ===============
 
+<!-- alphabetical by plugin name -->
+
 Package | Developer | Description
 ------- | --------- | -----------
+[Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | Pixel & Tonic | Amazon S3 volume type
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
