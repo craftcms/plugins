@@ -8,6 +8,7 @@ Package | Developer | Description
 [Admin Bar](https://github.com/wbrowar/craft-3-adminbar) | Will Browar | Front-end shortcuts for clients logged into Craft CMS
 [Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | Pixel & Tonic | Amazon S3 volume type
+[Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Element API](https://twitter.com/CraftCMS/status/830128464451637248) | Pixel & Tonic | Create a JSON API for your elements in Craft
