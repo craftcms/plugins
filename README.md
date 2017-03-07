@@ -22,5 +22,6 @@ Package | Developer | Description
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
+[Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
