@@ -12,6 +12,7 @@ Package | Developer | Description
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Element API](https://twitter.com/CraftCMS/status/830128464451637248) | Pixel & Tonic | Create a JSON API for your elements in Craft
+[Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
 [Mandrill](https://github.com/craftcms/mandrill) | Pixel & Tonic | Mandrill mailer adapter
 [Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
