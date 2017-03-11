@@ -13,6 +13,7 @@ Package | Developer | Description
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Element API](https://twitter.com/CraftCMS/status/830128464451637248) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
+[ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
 [Mandrill](https://github.com/craftcms/mandrill) | Pixel & Tonic | Mandrill mailer adapter
 [Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
