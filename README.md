@@ -11,7 +11,7 @@ Package | Developer | Description
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
-[Element API](https://twitter.com/CraftCMS/status/830128464451637248) | Pixel & Tonic | Create a JSON API for your elements in Craft
+[Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
