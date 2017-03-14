@@ -23,6 +23,7 @@ Package | Developer | Description
 [Rackspace](https://github.com/craftcms/rackspace) | Pixel & Tonic | Rackspace Cloud Files volume type
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
+[Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
