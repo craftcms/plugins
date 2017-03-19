@@ -9,6 +9,7 @@ Package | Developer | Description
 [Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | Pixel & Tonic | Amazon S3 volume type
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
+[Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
