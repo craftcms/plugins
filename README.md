@@ -17,6 +17,7 @@ Package | Developer | Description
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
+[Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
 [Mandrill](https://github.com/craftcms/mandrill) | Pixel & Tonic | Mandrill mailer adapter
 [Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | A simple plugin that allows you to minify blocks of HTML, CSS, and JS inline in Craft CMS templates
