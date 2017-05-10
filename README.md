@@ -24,6 +24,7 @@ Package | Developer | Description
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | A simple plugin that allows you to minify blocks of HTML, CSS, and JS inline in Craft CMS templates
 [Patrol](https://github.com/selvinortiz/patrol) | Selvin Ortiz | Maintenance Mode & SSL Routing
 [PathTools](https://github.com/nystudio107/craft3-pathtools) | nystudio107 | This twig plugin for the Craft CMS brings convenient path & url manipulation functions & filters to your Twig templates.
+[Query](https://github.com/craftcms/query) | Pixel & Tonic | A plugin that enables users to execute database queries and view their results in Craft CMS.
 [Rackspace](https://github.com/craftcms/rackspace) | Pixel & Tonic | Rackspace Cloud Files volume type
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
@@ -32,6 +33,6 @@ Package | Developer | Description
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
-[Query](https://github.com/craftcms/query) | Pixel & Tonic | A plugin that enables users to execute database queries and view their results in Craft CMS.
+
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
 
