@@ -33,3 +33,4 @@ Package | Developer | Description
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
+[Query](https://github.com/craftcms/query) | Pixel & Tonic | A plugin that enables users to execute database queries and view their results in Craft CMS.
