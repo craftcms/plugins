@@ -11,6 +11,8 @@ Package | Developer | Description
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
 [Category Tree](https://github.com/dalewpdevph/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
+[Contact Form](https://github.com/craftcms/contact-form) | Pixel & Tonic | Add a simple contact form to your Craft CMS site
+[Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | Pixel & Tonic | Add a honeypot captcha to your Craft CMS contact form
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
