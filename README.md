@@ -9,6 +9,7 @@ Package | Developer | Description
 [Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | Pixel & Tonic | Amazon S3 volume type
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
+[Anchors](https://github.com/craftcms/anchors) | Pixel & Tonic | Add anchor links to headings in your Craft CMS website content
 [Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
 [Category Tree](https://github.com/dalewpdevph/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
 [Contact Form](https://github.com/craftcms/contact-form) | Pixel & Tonic | Add a simple contact form to your Craft CMS site
