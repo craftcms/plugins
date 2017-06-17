@@ -27,6 +27,7 @@ Package | Developer | Description
 [Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | A simple plugin that allows you to minify blocks of HTML, CSS, and JS inline in Craft CMS templates
 [NSM Fields](https://github.com/newism/craft3-fields) | Newism / Leevi Graham | Address, telephone and email fields
+[Parsedown](https://github.com/luwes/craft3-parsedown) | Wesley Luyten | Adds Parsedown, the PHP Markdown parser
 [Patrol](https://github.com/selvinortiz/patrol) | Selvin Ortiz | Maintenance Mode & SSL Routing
 [PathTools](https://github.com/nystudio107/craft3-pathtools) | nystudio107 | This twig plugin for the Craft CMS brings convenient path & url manipulation functions & filters to your Twig templates.
 [Postmark](https://github.com/flipbox/postmark) | Flipbox Factory | Postmark mail adapter
