@@ -12,6 +12,7 @@ Package | Developer | Description
 [Anchors](https://github.com/craftcms/anchors) | Pixel & Tonic | Add anchor links to headings in your Craft CMS website content
 [Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
 [Category Tree](https://github.com/dalewpdevph/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
+[Codemirror](https://github.com/luwes/craft3-codemirror) | Wesley Luyten | Add the awesome in-browser code editor CodeMirror as a field type
 [Contact Form](https://github.com/craftcms/contact-form) | Pixel & Tonic | Add a simple contact form to your Craft CMS site
 [Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | Pixel & Tonic | Add a honeypot captcha to your Craft CMS contact form
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
