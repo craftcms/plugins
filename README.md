@@ -21,6 +21,7 @@ Package | Developer | Description
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
+[Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
 [ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
