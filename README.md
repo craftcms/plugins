@@ -26,6 +26,7 @@ Package | Developer | Description
 [Guest Entries](https://github.com/craftcms/guest-entries) | Pixel & Tonic | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
 [ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
+[Inlin](https://github.com/aelvan/Inlin-Craft/tree/craft3) | André Elvan | Inline local and remote files in twig templates.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
 [Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
@@ -45,6 +46,7 @@ Package | Developer | Description
 [Simple Text](https://github.com/craftcms/simple-text) | Pixel & Tonic | Simple textarea field type for Craft.
 [Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
+[Stamp](https://github.com/aelvan/Stamp-Craft/tree/craft3) | André Elvan | Adds timestamp to filenames for easy asset revisioning.
 [Store Hours](https://github.com/craftcms/store-hours) | Pixel & Tonic | Adds a “Store Hours” field type to Craft for collecting business opening and closing hours.
 [Svg](https://github.com/fractorr/svg) | fractorr | Transforms SVG data stored in section field into various file formats.
 [Title Entries Field](https://github.com/Dolphiq/craft3-plugin-title-entries-field) | Dolphiq | Entries-like field type that allows authors to set custom entry titles for each relation.
