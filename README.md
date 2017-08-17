@@ -16,6 +16,7 @@ Package | Developer | Description
 [Command Palette](https://github.com/am-impact/amcommand/tree/craft3) | a&m impact | Add a command palette for Craft.
 [Contact Form](https://github.com/craftcms/contact-form) | Pixel & Tonic | Add a simple contact form to your Craft CMS site
 [Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | Pixel & Tonic | Add a honeypot captcha to your Craft CMS contact form
+[Contact Form](https://github.com/isev-ltd/contact-form-validation) | isev | Simple server-side contact form validation for the Craft CMS 3 Contact Form plugin
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
