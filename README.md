@@ -19,6 +19,7 @@ Package | Developer | Description
 [Contact Form Validation](https://github.com/isev-ltd/contact-form-validation) | isev | Simple server-side contact form validation for the Craft CMS 3 Contact Form plugin
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
+[CraftQL](https://github.com/markhuot/craftql) | Mark Huot | A zero-conf GraphQL API for Craft
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
