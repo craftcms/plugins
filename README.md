@@ -47,6 +47,7 @@ Package | Developer | Description
 [Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects.
 [Simple Text](https://github.com/craftcms/simple-text) | Pixel & Tonic | Simple textarea field type for Craft.
 [Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
+[Social](https://github.com/dukt/social) | Dukt | Let your visitors log into Craft CMS with web services like Facebook, Google, Twitter…
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
 [Stamp](https://github.com/aelvan/Stamp-Craft/tree/craft3) | André Elvan | Adds timestamp to filenames for easy asset revisioning.
 [Store Hours](https://github.com/craftcms/store-hours) | Pixel & Tonic | Adds a “Store Hours” field type to Craft for collecting business opening and closing hours.
