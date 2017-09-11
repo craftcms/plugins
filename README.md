@@ -59,4 +59,5 @@ Package | Developer | Description
 [Video Embedder](https://github.com/mikestecker/craft3-videoembedder) | Mike Stecker | Craft variable that takes a YouTube or Vimeo URL and converts it to a iframe-friendly embed URL.
 [Videos](https://github.com/dukt/videos) | Dukt | Connect to YouTube & Vimeo and publish social videos on your website.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
+[SVG Placeholder](https://github.com/mblode/svgplaceholder) | mblode | A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in Craft CMS templates.
 
