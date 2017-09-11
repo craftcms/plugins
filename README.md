@@ -51,7 +51,8 @@ Package | Developer | Description
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
 [Stamp](https://github.com/aelvan/Stamp-Craft/tree/craft3) | André Elvan | Adds timestamp to filenames for easy asset revisioning.
 [Store Hours](https://github.com/craftcms/store-hours) | Pixel & Tonic | Adds a “Store Hours” field type to Craft for collecting business opening and closing hours.
-[Svg](https://github.com/fractorr/svg) | fractorr | Transforms SVG data stored in section field into various file formats.
+[SVG](https://github.com/fractorr/svg) | fractorr | Transforms SVG data stored in section field into various file formats.
+[SVG Placeholder](https://github.com/mblode/svgplaceholder) | mblode | A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in Craft CMS templates.
 [Title Entries Field](https://github.com/Dolphiq/craft3-plugin-title-entries-field) | Dolphiq | Entries-like field type that allows authors to set custom entry titles for each relation.
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
@@ -59,5 +60,3 @@ Package | Developer | Description
 [Video Embedder](https://github.com/mikestecker/craft3-videoembedder) | Mike Stecker | Craft variable that takes a YouTube or Vimeo URL and converts it to a iframe-friendly embed URL.
 [Videos](https://github.com/dukt/videos) | Dukt | Connect to YouTube & Vimeo and publish social videos on your website.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
-[SVG Placeholder](https://github.com/mblode/svgplaceholder) | mblode | A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in Craft CMS templates.
-
