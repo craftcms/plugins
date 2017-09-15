@@ -27,6 +27,7 @@ Package | Developer | Description
 [Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
 [Guest Entries](https://github.com/craftcms/guest-entries) | Pixel & Tonic | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
+[Iconpicker](https://github.com/Dolphiq/craft3-iconpicker) | Dolphiq | Craft plugin that provides a new field type that offers end users an easy way to pick an icon from a .woff or .ttf font file.
 [ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
 [Inlin](https://github.com/aelvan/Inlin-Craft/tree/craft3) | André Elvan | Inline local and remote files in twig templates.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
