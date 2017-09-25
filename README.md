@@ -24,6 +24,7 @@ Package | Developer | Description
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
+[Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
 [Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
 [Guest Entries](https://github.com/craftcms/guest-entries) | Pixel & Tonic | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
