@@ -11,7 +11,7 @@ Package | Developer | Description
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Anchors](https://github.com/craftcms/anchors) | Pixel & Tonic | Add anchor links to headings in your Craft CMS website content
 [Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
-[Category Tree](https://github.com/dalewpdevph/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
+[Category Tree](https://github.com/pdaleramirez/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
 [Codemirror](https://github.com/luwes/craft3-codemirror) | Wesley Luyten | Add the awesome in-browser code editor CodeMirror as a field type
 [Command Palette](https://github.com/am-impact/amcommand/tree/craft3) | a&m impact | Add a command palette for Craft.
 [Contact Form](https://github.com/craftcms/contact-form) | Pixel & Tonic | Add a simple contact form to your Craft CMS site
