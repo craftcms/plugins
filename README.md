@@ -25,6 +25,7 @@ Package | Developer | Description
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
+[Geo Cookie](https://github.com/lukeyouell/craft3-geocookie) | Luke Youell | Collect information about a visitor's location based on their IP address and store the information as a cookie.
 [Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
 [Guest Entries](https://github.com/craftcms/guest-entries) | Pixel & Tonic | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
