@@ -47,7 +47,7 @@ Package | Developer | Description
 [Rackspace](https://github.com/craftcms/rackspace) | Pixel & Tonic | Rackspace Cloud Files volume type
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
-[Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects.
+[Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects with an easy to use user interface.
 [Simple Text](https://github.com/craftcms/simple-text) | Pixel & Tonic | Simple textarea field type for Craft.
 [Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Social](https://github.com/dukt/social) | Dukt | Let your visitors log into Craft CMS with web services like Facebook, Google, Twitter…
