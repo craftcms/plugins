@@ -22,6 +22,7 @@ Package | Developer | Description
 [CraftQL](https://github.com/markhuot/craftql) | Mark Huot | A zero-conf GraphQL API for Craft
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
+[Dumper](https://github.com/studioespresso/craft3-dumper) | Studio Espresso | Bringing larapack/dd to Craft 3 and Twig
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
