@@ -28,6 +28,7 @@ Package | Developer | Description
 [Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
 [Geo Cookie](https://github.com/lukeyouell/craft3-geocookie) | Luke Youell | Collect information about a visitor's location based on their IP address and store the information as a cookie.
 [Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
+[GTmetrix](https://github.com/lukeyouell/craft3-gtmetrix) | Luke Youell | GTmetrix gives you insight on how well your entries load and provides actionable recommendations on how to optimise them.
 [Guest Entries](https://github.com/craftcms/guest-entries) | Pixel & Tonic | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
 [Iconpicker](https://github.com/Dolphiq/craft3-iconpicker) | Dolphiq | Craft plugin that provides a new field type that offers end users an easy way to pick an icon from a .woff or .ttf font file.
