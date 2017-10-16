@@ -26,6 +26,7 @@ Package | Developer | Description
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
+[Forms](https://github.com/Dolphiq/craft3-forms) | Dolphiq | This craft CMS 3 form plugin makes it easy to create and use custom forms with the features the Yii 2 Framework offers. On top of this, the plugin provides even more functionalities for easy implementation and configuration of forms in twig templates.
 [Geo Cookie](https://github.com/lukeyouell/craft3-geocookie) | Luke Youell | Collect information about a visitor's location based on their IP address and store the information as a cookie.
 [Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
 [GTmetrix](https://github.com/lukeyouell/craft3-gtmetrix) | Luke Youell | GTmetrix gives you insight on how well your entries load and provides actionable recommendations on how to optimise them.
