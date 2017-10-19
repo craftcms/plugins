@@ -23,9 +23,11 @@ Package | Developer | Description
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Dumper](https://github.com/studioespresso/craft3-dumper) | Studio Espresso | Bringing larapack/dd to Craft 3 and Twig
+[Eager Beaver](https://github.com/nystudio107/craft3-eagerbeaver) | nystudio107 | Allows you to eager load elements from auto-injected Entry elements on demand from your templates.
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
+[FastCGI Cache Bust](https://github.com/nystudio107/craft3-fastcgicachebust) | nystudio107 | Bust the Nginx FastCGI Cache when entries are saved or created.
 [Forms](https://github.com/Dolphiq/craft3-forms) | Dolphiq | This craft CMS 3 form plugin makes it easy to create and use custom forms with the features the Yii 2 Framework offers. On top of this, the plugin provides even more functionalities for easy implementation and configuration of forms in twig templates.
 [Geo Cookie](https://github.com/lukeyouell/craft3-geocookie) | Luke Youell | Collect information about a visitor's location based on their IP address and store the information as a cookie.
 [Google Cloud](https://github.com/craftcms/google-cloud) | Pixel & Tonic | Google Cloud Files volume type
@@ -33,7 +35,7 @@ Package | Developer | Description
 [Guest Entries](https://github.com/craftcms/guest-entries) | Pixel & Tonic | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
 [Iconpicker](https://github.com/Dolphiq/craft3-iconpicker) | Dolphiq | Craft plugin that provides a new field type that offers end users an easy way to pick an icon from a .woff or .ttf font file.
-[ImageOptim](https://github.com/nystudio107/craft3-imageoptim) | nystudio107 | Automatically optimize images after they've been transformed.
+[ImageOptimize](https://github.com/nystudio107/craft3-imageoptimize) | nystudio107 | Automatically create & optimize responsive image transforms.
 [Inlin](https://github.com/aelvan/Inlin-Craft/tree/craft3) | André Elvan | Inline local and remote files in twig templates.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
@@ -61,6 +63,7 @@ Package | Developer | Description
 [SVG Placeholder](https://github.com/mblode/svgplaceholder) | mblode | A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in Craft CMS templates.
 [Title Entries Field](https://github.com/Dolphiq/craft3-plugin-title-entries-field) | Dolphiq | Entries-like field type that allows authors to set custom entry titles for each relation.
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
+[Typogrify](https://github.com/nystudio107/craft3-typogrify) | nystudio107 | Typogrify prettifies your web typography by preventing ugly quotes and 'widows' and more.
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Video Embedder](https://github.com/mikestecker/craft3-videoembedder) | Mike Stecker | Craft variable that takes a YouTube or Vimeo URL and converts it to a iframe-friendly embed URL.
