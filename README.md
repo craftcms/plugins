@@ -18,6 +18,7 @@ Package | Developer | Description
 [Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | Pixel & Tonic | Add a honeypot captcha to your Craft CMS contact form
 [Contact Form Validation](https://github.com/isev-ltd/contact-form-validation) | isev | Simple server-side contact form validation for the Craft CMS 3 Contact Form plugin
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
+[CP Nav](https://github.com/verbb/cp-nav) | Verbb | Manage your Craft CMS control panel navigation with ease.
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
 [CraftQL](https://github.com/markhuot/craftql) | Mark Huot | A zero-conf GraphQL API for Craft
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
@@ -25,6 +26,7 @@ Package | Developer | Description
 [Dumper](https://github.com/studioespresso/craft3-dumper) | Studio Espresso | Bringing larapack/dd to Craft 3 and Twig
 [Eager Beaver](https://github.com/nystudio107/craft3-eagerbeaver) | nystudio107 | Allows you to eager load elements from auto-injected Entry elements on demand from your templates.
 [Element API](https://github.com/craftcms/element-api) | Pixel & Tonic | Create a JSON API for your elements in Craft
+[Expanded Singles](https://github.com/verbb/expanded-singles) | Verbb | A simple plugin that alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' section.
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
 [Facebook Connector](https://github.com/boscho87/facebook-connector/) | Simon Müller (Boscho) | Post your Craft entry to Facebook in no time
 [FastCGI Cache Bust](https://github.com/nystudio107/craft3-fastcgicachebust) | nystudio107 | Bust the Nginx FastCGI Cache when entries are saved or created.
