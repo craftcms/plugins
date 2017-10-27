@@ -40,6 +40,7 @@ Package | Developer | Description
 [ImageOptimize](https://github.com/nystudio107/craft3-imageoptimize) | nystudio107 | Automatically create & optimize responsive image transforms.
 [Inlin](https://github.com/aelvan/Inlin-Craft/tree/craft3) | André Elvan | Inline local and remote files in twig templates.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
+[Instant Analytics](https://github.com/nystudio107/craft3-instantanalytics) | nystudio107 | Instant Analytics brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.
 [Mailgun](https://github.com/craftcms/mailgun) | Pixel & Tonic | Mailgun mailer adapter
 [Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
 [Mandrill](https://github.com/craftcms/mandrill) | Pixel & Tonic | Mandrill mailer adapter
