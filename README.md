@@ -18,6 +18,7 @@ Package | Developer | Description
 [Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | Pixel & Tonic | Add a honeypot captcha to your Craft CMS contact form
 [Contact Form Validation](https://github.com/isev-ltd/contact-form-validation) | isev | Simple server-side contact form validation for the Craft CMS 3 Contact Form plugin
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
+[CP Field Inspect](https://github.com/mmikkel/CpFieldInspect-Craft) | Mats Mikkel Rummelhoff | Inspect field handles and easily edit fields from element edit forms
 [CP Nav](https://github.com/verbb/cp-nav) | Verbb | Manage your Craft CMS control panel navigation with ease.
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
 [CraftQL](https://github.com/markhuot/craftql) | Mark Huot | A zero-conf GraphQL API for Craft
