@@ -55,6 +55,7 @@ Package | Developer | Description
 [Postmark](https://github.com/flipbox/postmark) | Flipbox Factory | Postmark mail adapter
 [Query](https://github.com/craftcms/query) | Pixel & Tonic | A plugin that enables users to execute database queries and view their results in Craft CMS.
 [Rackspace](https://github.com/craftcms/rackspace) | Pixel & Tonic | Rackspace Cloud Files volume type
+[Redactor Script Buttons](https://github.com/mildlygeeky/craft-redactor-script-buttons) | Mildly Geeky | Adds superscript and subscript buttons to Redactor
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
 [Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects with an easy to use user interface.
