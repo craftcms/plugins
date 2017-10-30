@@ -54,6 +54,7 @@ Package | Developer | Description
 [Patrol](https://github.com/selvinortiz/patrol) | Selvin Ortiz | Maintenance Mode & SSL Routing
 [PathTools](https://github.com/nystudio107/craft3-pathtools) | nystudio107 | This twig plugin for the Craft CMS brings convenient path & url manipulation functions & filters to your Twig templates.
 [Postmark](https://github.com/flipbox/postmark) | Flipbox Factory | Postmark mail adapter
+[Published Event](https://github.com/sjelfull/craft3-publishedevent) | Superbig | Triggers an event for entries when they are published or expire in the future
 [Query](https://github.com/craftcms/query) | Pixel & Tonic | A plugin that enables users to execute database queries and view their results in Craft CMS.
 [Rackspace](https://github.com/craftcms/rackspace) | Pixel & Tonic | Rackspace Cloud Files volume type
 [Redactor Script Buttons](https://github.com/mildlygeeky/craft-redactor-script-buttons) | Mildly Geeky | Adds superscript and subscript buttons to Redactor
