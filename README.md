@@ -40,6 +40,7 @@ Package | Developer | Description
 [Hexdec](https://github.com/craftcms/hexdec) | Pixel & Tonic | Converts hexadecimal values to decimals.
 [Iconpicker](https://github.com/Dolphiq/craft3-iconpicker) | Dolphiq | Craft plugin that provides a new field type that offers end users an easy way to pick an icon from a .woff or .ttf font file.
 [ImageOptimize](https://github.com/nystudio107/craft3-imageoptimize) | nystudio107 | Automatically create & optimize responsive image transforms.
+[Imgix](https://github.com/sjelfull/craft3-imgix) | Superbig | Use [Imgix](https://www.imgix.com/) to optimize and deliver images fast
 [Inlin](https://github.com/aelvan/Inlin-Craft/tree/craft3) | André Elvan | Inline local and remote files in twig templates.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
 [Instant Analytics](https://github.com/nystudio107/craft3-instantanalytics) | nystudio107 | Instant Analytics brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.
