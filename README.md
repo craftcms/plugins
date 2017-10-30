@@ -70,6 +70,7 @@ Package | Developer | Description
 [SVG Placeholder](https://github.com/mblode/svgplaceholder) | mblode | A plugin which generates an invisible SVG of specific dimensions for use when lazyloading images in Craft CMS templates.
 [Title Entries Field](https://github.com/Dolphiq/craft3-plugin-title-entries-field) | Dolphiq | Entries-like field type that allows authors to set custom entry titles for each relation.
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
+[Template Select](https://github.com/sjelfull/craft3-templateselect) | Superbig | A fieldtype that allows you to select a template from the site templates folder.
 [Typogrify](https://github.com/nystudio107/craft3-typogrify) | nystudio107 | Typogrify prettifies your web typography by preventing ugly quotes and 'widows' and more.
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
