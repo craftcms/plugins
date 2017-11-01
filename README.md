@@ -23,6 +23,7 @@ Package | Developer | Description
 [CP Nav](https://github.com/verbb/cp-nav) | Verbb | Manage your Craft CMS control panel navigation with ease.
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
 [CraftQL](https://github.com/markhuot/craftql) | Mark Huot | A zero-conf GraphQL API for Craft
+[Default Tab](https://github.com/studioespresso/craft3-defaulttab) | Studio Espresso | Add a default tab to your new sections
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Dumper](https://github.com/studioespresso/craft3-dumper) | Studio Espresso | Bringing larapack/dd to Craft 3 and Twig
@@ -79,4 +80,4 @@ Package | Developer | Description
 [Video Embedder](https://github.com/mikestecker/craft3-videoembedder) | Mike Stecker | Craft variable that takes a YouTube or Vimeo URL and converts it to a iframe-friendly embed URL.
 [Videos](https://github.com/dukt/videos) | Dukt | Connect to YouTube & Vimeo and publish social videos on your website.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
-[Weighted Search](https://github.com/venveo/craft3-weightedsearch) | Venveo | Alternative search utility that sorts based on weighted results. Exact matches get prioritized. 
+[Weighted Search](https://github.com/venveo/craft3-weightedsearch) | Venveo | Alternative search utility that sorts based on weighted results. Exact matches get prioritized.
