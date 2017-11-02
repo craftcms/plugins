@@ -3,8 +3,8 @@ Craft 3 Plugins
 
 <!-- alphabetical by plugin name -->
 
-Package | Developer | Description
-------- | --------- | -----------
+Plugin | Developer | Description
+------ | --------- | -----------
 [Admin Bar](https://github.com/wbrowar/craft-3-adminbar) | Will Browar | Front-end shortcuts for clients logged into Craft CMS
 [Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | P&T | Amazon S3 volume type
