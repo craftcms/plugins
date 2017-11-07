@@ -64,6 +64,7 @@ Plugin | Developer | Description
 [Query](https://github.com/craftcms/query) | P&T | A plugin that enables users to execute database queries and view their results in Craft CMS.
 [Rackspace](https://github.com/craftcms/rackspace) | P&T | Rackspace Cloud Files volume type
 [Randomm](https://github.com/sjelfull/craft3-randomm) | Superbig | Fieldtype that allows you to create random things via chance.js
+[Readability](https://github.com/mikestecker/craft3-readability) | Mike Stecker | Adds twig filters to aid you with your website content, especially with readability
 [Redactor Script Buttons](https://github.com/mildlygeeky/craft-redactor-script-buttons) | Mildly Geeky | Adds superscript and subscript buttons to Redactor
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
