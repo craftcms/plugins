@@ -11,7 +11,10 @@ Plugin | Developer | Description
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Anchors](https://github.com/craftcms/anchors) | P&T | Add anchor links to headings in your Craft CMS website content
 [Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
+[Autologin](https://github.com/sjelfull/craft3-autologin) | Superbig | Automatically login based on whitelisted IP, basic auth username or URL keys
+[Beam](https://github.com/sjelfull/craft3-beam) | Superbig | Generate CSVs and XLS files in your templates
 [Bugsnag](https://github.com/pinfirestudios/craft3-bugsnag) | Pinfire Studios | Allows errors and exceptions to be sent to [Bugsnag](https://www.bugsnag.com)
+[Calendar Links](https://github.com/sjelfull/craft3-calendarlinks) | Superbig | Generate add to calendar links for Google, iCal and other calendar systems
 [Category Tree](https://github.com/pdaleramirez/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
 [Codemirror](https://github.com/luwes/craft3-codemirror) | Wesley Luyten | Add the awesome in-browser code editor CodeMirror as a field type
 [Command Palette](https://github.com/am-impact/amcommand/tree/craft3) | a&m impact | Add a command palette for Craft.
@@ -45,11 +48,13 @@ Plugin | Developer | Description
 [Inlin](https://github.com/aelvan/Inlin-Craft/tree/craft3) | André Elvan | Inline local and remote files in twig templates.
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
 [Instant Analytics](https://github.com/nystudio107/craft3-instantanalytics) | nystudio107 | Instant Analytics brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.
+[Logout Redirect](https://github.com/sjelfull/craft3-logoutredirect) | Superbig | Configure where to send users after they logout.
 [Mailgun](https://github.com/craftcms/mailgun) | P&T | Mailgun mailer adapter
 [Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
 [Mandrill](https://github.com/craftcms/mandrill) | P&T | Mandrill mailer adapter
 [Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | A simple plugin that allows you to minify blocks of HTML, CSS, and JS inline in Craft CMS templates
+[MobileDetect](https://github.com/sjelfull/craft3-mobiledetect) | Superbig | Use Mobile_Detect for detecting mobile devices (including tablets)
 [NSM Fields](https://github.com/newism/craft3-fields) | Newism / Leevi Graham | Address, telephone and email fields
 [Parsedown](https://github.com/luwes/craft3-parsedown) | Wesley Luyten | Adds Parsedown, the PHP Markdown parser
 [Patrol](https://github.com/selvinortiz/patrol) | Selvin Ortiz | Maintenance Mode & SSL Routing
@@ -58,10 +63,12 @@ Plugin | Developer | Description
 [Published Event](https://github.com/sjelfull/craft3-publishedevent) | Superbig | Triggers an event for entries when they are published or expire in the future
 [Query](https://github.com/craftcms/query) | P&T | A plugin that enables users to execute database queries and view their results in Craft CMS.
 [Rackspace](https://github.com/craftcms/rackspace) | P&T | Rackspace Cloud Files volume type
+[Randomm](https://github.com/sjelfull/craft3-randomm) | Superbig | Fieldtype that allows you to create random things via chance.js
 [Redactor Script Buttons](https://github.com/mildlygeeky/craft-redactor-script-buttons) | Mildly Geeky | Adds superscript and subscript buttons to Redactor
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
 [Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects with an easy to use user interface.
+[Restrict](https://github.com/sjelfull/craft3-restrict) | Superbig | Restrict access to the CP based on a IP whitelist
 [SimpleMap](https://github.com/ethercreative/simplemap) | Ether Creative | A beautifully simple Google Map field type.
 [Simple Text](https://github.com/craftcms/simple-text) | P&T | Simple textarea field type for Craft.
 [Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
@@ -79,6 +86,7 @@ Plugin | Developer | Description
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Upper](https://github.com/ostark/upper) | Oliver Stark | Integrates Edge Caches like Fastly, KeyCDN, Varnish with Craft.
+[Valuestore](https://github.com/sjelfull/craft3-valuestore) | Superbig | Easily store some loose values into files
 [Video Embedder](https://github.com/mikestecker/craft3-videoembedder) | Mike Stecker | Craft variable that takes a YouTube or Vimeo URL and converts it to a iframe-friendly embed URL.
 [Videos](https://github.com/dukt/videos) | Dukt | Connect to YouTube & Vimeo and publish social videos on your website.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
