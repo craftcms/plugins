@@ -19,6 +19,7 @@ Plugin | Developer | Description
 [Codemirror](https://github.com/luwes/craft3-codemirror) | Wesley Luyten | Add the awesome in-browser code editor CodeMirror as a field type
 [Command Palette](https://github.com/am-impact/amcommand/tree/craft3) | a&m impact | Add a command palette for Craft.
 [Contact Form](https://github.com/craftcms/contact-form) | P&T | Add a simple contact form to your Craft CMS site
+[Contact Form Drip](https://github.com/NathanHeffley/contact-form-drip) | Nathan Heffley | Integrate your Craft CMS contact form with your Drip email automation system.
 [Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | P&T | Add a honeypot captcha to your Craft CMS contact form
 [Contact Form Validation](https://github.com/isev-ltd/contact-form-validation) | isev | Simple server-side contact form validation for the Craft CMS 3 Contact Form plugin
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
