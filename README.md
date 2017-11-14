@@ -43,6 +43,7 @@ Plugin | Developer | Description
 [GTmetrix](https://github.com/lukeyouell/craft3-gtmetrix) | Luke Youell | GTmetrix gives you insight on how well your entries load and provides actionable recommendations on how to optimise them.
 [Guest Entries](https://github.com/craftcms/guest-entries) | P&T | Accept anonymous entry submissions with Craft.
 [Hexdec](https://github.com/craftcms/hexdec) | P&T | Converts hexadecimal values to decimals.
+[HTTP2 Server Push](https://github.com/sjelfull/craft3-http2serverpush) | Superbig | Automatically add HTTP2 Link headers for CSS, JS and image assets.
 [Iconpicker](https://github.com/Dolphiq/craft3-iconpicker) | Dolphiq | Craft plugin that provides a new field type that offers end users an easy way to pick an icon from a .woff or .ttf font file.
 [ImageOptimize](https://github.com/nystudio107/craft3-imageoptimize) | nystudio107 | Automatically create & optimize responsive image transforms.
 [Imgix](https://github.com/sjelfull/craft3-imgix) | Superbig | Use [Imgix](https://www.imgix.com/) to optimize and deliver images fast
