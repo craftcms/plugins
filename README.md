@@ -17,6 +17,7 @@ Plugin | Developer | Description
 [Calendar Links](https://github.com/sjelfull/craft3-calendarlinks) | Superbig | Generate add to calendar links for Google, iCal and other calendar systems
 [Category Tree](https://github.com/pdaleramirez/category-tree) | Dale Ramirez | Builds a Category tree structure for your menu and links
 [Codemirror](https://github.com/luwes/craft3-codemirror) | Wesley Luyten | Add the awesome in-browser code editor CodeMirror as a field type
+[Collections](https://github.com/sjelfull/craft3-collections) | Superbig | Clean up those complex templates with Laravel Collections
 [Command Palette](https://github.com/am-impact/amcommand/tree/craft3) | a&m impact | Add a command palette for Craft.
 [Contact Form](https://github.com/craftcms/contact-form) | P&T | Add a simple contact form to your Craft CMS site
 [Contact Form Drip](https://github.com/NathanHeffley/contact-form-drip) | Nathan Heffley | Integrate your Craft CMS contact form with your Drip email automation system.
