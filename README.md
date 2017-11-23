@@ -80,6 +80,7 @@ Plugin | Developer | Description
 [Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Social](https://github.com/dukt/social) | Dukt | Let your visitors log into Craft CMS with web services like Facebook, Google, Twitter…
 [Splash!](https://github.com/ethercreative/splash) | Ether Creative | Quickly and easily get beautiful Unsplash images in Craft!
+[Sprout Active](https://github.com/barrelstrength/sprout-active) | Barrel Strength Design | Simplify navigation and URL-based logic in your templates.
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
 [Stamp](https://github.com/aelvan/Stamp-Craft/tree/craft3) | André Elvan | Adds timestamp to filenames for easy asset revisioning.
 [Store Hours](https://github.com/craftcms/store-hours) | P&T | Adds a “Store Hours” field type to Craft for collecting business opening and closing hours.
