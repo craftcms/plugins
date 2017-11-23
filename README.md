@@ -6,7 +6,7 @@ Craft 3 Plugins
 Plugin | Developer | Description
 ------ | --------- | -----------
 [Admin Bar](https://github.com/wbrowar/craft-3-adminbar) | Will Browar | Front-end shortcuts for clients logged into Craft CMS
-[Agnostic Fetch](https://github.com/marionnewlevant/craft3-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
+[Agnostic Fetch](https://github.com/marionnewlevant/craft-agnostic_fetch) | Marion Newlevant | Uniform syntax for fetching elements whether or not they have been eager loaded
 [Amazon S3](https://github.com/craftcms/aws-s3) | P&T | Amazon S3 volume type
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Anchors](https://github.com/craftcms/anchors) | P&T | Add anchor links to headings in your Craft CMS website content
@@ -55,7 +55,7 @@ Plugin | Developer | Description
 [Mailgun](https://github.com/craftcms/mailgun) | P&T | Mailgun mailer adapter
 [Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
 [Mandrill](https://github.com/craftcms/mandrill) | P&T | Mandrill mailer adapter
-[Match Input](https://github.com/marionnewlevant/craft3-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
+[Match Input](https://github.com/marionnewlevant/craft-match_input) | Marion Newlevant | Field type for text fields that match a regex pattern
 [Minify](https://github.com/nystudio107/craft3-minify) | nystudio107 | A simple plugin that allows you to minify blocks of HTML, CSS, and JS inline in Craft CMS templates
 [MobileDetect](https://github.com/sjelfull/craft3-mobiledetect) | Superbig | Use Mobile_Detect for detecting mobile devices (including tablets)
 [NSM Fields](https://github.com/newism/craft3-fields) | Newism / Leevi Graham | Address, telephone and email fields
@@ -89,7 +89,7 @@ Plugin | Developer | Description
 [Transcoder](https://github.com/nystudio107/craft3-transcoder) | nystudio107 | Transcode video & audio files to various formats, and provide video thumbnails
 [Template Select](https://github.com/sjelfull/craft3-templateselect) | Superbig | A fieldtype that allows you to select a template from the site templates folder.
 [Typogrify](https://github.com/nystudio107/craft3-typogrify) | nystudio107 | Typogrify prettifies your web typography by preventing ugly quotes and 'widows' and more.
-[Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
+[Twig Perversion](https://github.com/marionnewlevant/craft-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Upper](https://github.com/ostark/upper) | Oliver Stark | Integrates Edge Caches like Fastly, KeyCDN, Varnish with Craft.
 [Valuestore](https://github.com/sjelfull/craft3-valuestore) | Superbig | Easily store some loose values into files
