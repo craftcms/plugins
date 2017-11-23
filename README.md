@@ -29,6 +29,7 @@ Plugin | Developer | Description
 [Craft Mix](https://github.com/mister-bk/craft-plugin-mix) | mister bk! | Helper plugin for Laravel Mix in Craft CMS templates
 [CraftQL](https://github.com/markhuot/craftql) | Mark Huot | A zero-conf GraphQL API for Craft
 [Default Tab](https://github.com/studioespresso/craft3-defaulttab) | Studio Espresso | Add a default tab to your new sections
+[Delete Entry Versions](https://github.com/carlcs/craft-deleteentryversions) | Christian Seelbach | A utility to delete entry versions
 [Disqus](https://github.com/nystudio107/craft3-disqus) | nystudio107 | Integrates the Disqus commenting system into Craft 3 websites, including Single Sign On (SSO) and custom login/logout URLs
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Dumper](https://github.com/studioespresso/craft3-dumper) | Studio Espresso | Bringing larapack/dd to Craft 3 and Twig
