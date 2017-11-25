@@ -80,7 +80,7 @@ Plugin | Developer | Description
 [Shortcut](https://github.com/sjelfull/craft3-shortcut/) | Superbig | Simple URL shortening
 [SimpleMap](https://github.com/ethercreative/simplemap) | Ether Creative | A beautifully simple Google Map field type.
 [Simple Text](https://github.com/craftcms/simple-text) | P&T | Simple textarea field type for Craft.
-[Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
+[Snitch](https://github.com/marionnewlevant/craft-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Social](https://github.com/dukt/social) | Dukt | Let your visitors log into Craft CMS with web services like Facebook, Google, Twitter…
 [Splash!](https://github.com/ethercreative/splash) | Ether Creative | Quickly and easily get beautiful Unsplash images in Craft!
 [Sprout Active](https://github.com/barrelstrength/sprout-active) | Barrel Strength Design | Simplify navigation and URL-based logic in your templates.
