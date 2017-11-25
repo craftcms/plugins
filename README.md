@@ -11,6 +11,7 @@ Plugin | Developer | Description
 [Amazon SES](https://github.com/borucreative/craft3-ses) | BORU Creative | Amazon SES mailer adapter
 [Anchors](https://github.com/craftcms/anchors) | P&T | Add anchor links to headings in your Craft CMS website content
 [Asset Rev](https://github.com/clubstudioltd/craft3-asset-rev) | Club Studio | A plugin to aid cache-busting in Craft 3
+[Async Queue](https://github.com/ostark/craft-async-queue) | Oliver Stark | Non-blocking job execution in the background
 [Autologin](https://github.com/sjelfull/craft3-autologin) | Superbig | Automatically login based on whitelisted IP, basic auth username or URL keys
 [Beam](https://github.com/sjelfull/craft3-beam) | Superbig | Generate CSVs and XLS files in your templates
 [Bugsnag](https://github.com/pinfirestudios/craft3-bugsnag) | Pinfire Studios | Allows errors and exceptions to be sent to [Bugsnag](https://www.bugsnag.com)
