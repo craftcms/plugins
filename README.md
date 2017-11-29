@@ -77,6 +77,7 @@ Plugin | Developer | Description
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
 [Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Manage 301 and 302 redirects with an easy to use user interface.
 [Restrict](https://github.com/sjelfull/craft3-restrict) | Superbig | Restrict access to the CP based on a IP whitelist
+[Sentry](https://github.com/lukeyouell/craft3-sentry) | Sentry | Error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boost efficiency. Improve user experience.
 [Shortcut](https://github.com/sjelfull/craft3-shortcut/) | Superbig | Simple URL shortening
 [SimpleMap](https://github.com/ethercreative/simplemap) | Ether Creative | A beautifully simple Google Map field type.
 [Simple Text](https://github.com/craftcms/simple-text) | P&T | Simple textarea field type for Craft.
