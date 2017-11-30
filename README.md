@@ -24,6 +24,9 @@ Plugin | Developer | Description
 [Contact Form Drip](https://github.com/NathanHeffley/contact-form-drip) | Nathan Heffley | Integrate your Craft CMS contact form with your Drip email automation system.
 [Contact Form Honeypot](https://github.com/craftcms/contact-form-honeypot) | P&T | Add a honeypot captcha to your Craft CMS contact form
 [Contact Form Validation](https://github.com/isev-ltd/contact-form-validation) | isev | Simple server-side contact form validation for the Craft CMS 3 Contact Form plugin
+[Control Panel Body Classes](https://github.com/doublesecretagency/craft-cpbodyclasses) | Double Secret Agency | Adds special classes to the Control Panel's `<body>` tag.
+[Control Panel CSS](https://github.com/doublesecretagency/craft-cpcss) | Double Secret Agency | Add custom CSS to your Control Panel.
+[Control Panel JS](https://github.com/doublesecretagency/craft-cpjs) | Double Secret Agency | Add custom JavaScript to your Control Panel.
 [Cookies](https://github.com/nystudio107/craft3-cookies) | nystudio107 | A simple plugin for setting and getting cookies from within Craft CMS templates
 [CP Field Inspect](https://github.com/mmikkel/CpFieldInspect-Craft) | Mats Mikkel Rummelhoff | Inspect field handles and easily edit fields from element edit forms
 [CP Nav](https://github.com/verbb/cp-nav) | Verbb | Manage your Craft CMS control panel navigation with ease.
