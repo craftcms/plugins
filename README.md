@@ -57,6 +57,7 @@ Plugin | Developer | Description
 [Inline](https://github.com/luwes/craft3-inline) | Wesley Luyten | Inline the contents of a file in a twig template
 [Instant Analytics](https://github.com/nystudio107/craft3-instantanalytics) | nystudio107 | Instant Analytics brings full Google Analytics support to your Twig templates and automatic Craft Commerce integration with Google Enhanced Ecommerce.
 [Logout Redirect](https://github.com/sjelfull/craft3-logoutredirect) | Superbig | Configure where to send users after they logout.
+[Logs](https://github.com/ethercreative/logs) | Ether Creative | Quickly check your logs in the Craft 3 utilities section
 [Mailgun](https://github.com/craftcms/mailgun) | P&T | Mailgun mailer adapter
 [Maintenance Mode](https://github.com/venveo/craft3-maintenancemode) | Venveo | Maintenance mode CLI helper for Craft
 [Mandrill](https://github.com/craftcms/mandrill) | P&T | Mandrill mailer adapter
