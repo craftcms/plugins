@@ -38,6 +38,8 @@ Plugin | Developer | Description
 [Doxter](https://github.com/selvinortiz/doxter) | Selvin Ortiz | Markdown Editor & Parser
 [Dumper](https://github.com/studioespresso/craft3-dumper) | Studio Espresso | Bringing larapack/dd to Craft 3 and Twig
 [Eager Beaver](https://github.com/nystudio107/craft3-eagerbeaver) | nystudio107 | Allows you to eager load elements from auto-injected Entry elements on demand from your templates.
+[Enupal Backup](https://github.com/enupal/backup) | Enupal | Fully integrated Backup solution for Craft CMS
+[Enupal Slider](https://github.com/enupal/slider) | Enupal | Fully responsive and customizable Slider plugin for Craft CMS
 [Element API](https://github.com/craftcms/element-api) | P&T | Create a JSON API for your elements in Craft
 [Expanded Singles](https://github.com/verbb/expanded-singles) | Verbb | A simple plugin that alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' section.
 [Facebook](https://github.com/dukt/facebook) | Dukt | Facebook Insights widget for the dashboard.
