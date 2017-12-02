@@ -72,7 +72,7 @@ Plugin | Developer | Description
 [PathTools](https://github.com/nystudio107/craft3-pathtools) | nystudio107 | This twig plugin for the Craft CMS brings convenient path & url manipulation functions & filters to your Twig templates.
 [Position Fieldtype](https://github.com/Rias500/craft3-position-fieldtype) | Rias | Brings back the Position fieldtype from Craft 2
 [Postmark](https://github.com/flipbox/postmark) | Flipbox Factory | Postmark mail adapter
-[Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) | André Elvan | Field type that parses twig when an element is saved.
+[Preparse Field](https://github.com/aelvan/Preparse-Field-Craft/tree/craft3) | André Elvan | Field type that parses twig when an element is saved.
 [Published Event](https://github.com/sjelfull/craft3-publishedevent) | Superbig | Triggers an event for entries when they are published or expire in the future
 [Query](https://github.com/craftcms/query) | P&T | A plugin that enables users to execute database queries and view their results in Craft CMS.
 [Rackspace](https://github.com/craftcms/rackspace) | P&T | Rackspace Cloud Files volume type
